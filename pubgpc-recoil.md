@@ -1,7 +1,38 @@
-#step 1 open logitech hub
+##step 1 open logitech hub
 ![image](https://github.com/SerenityEirlys/Anti-Recoil-All-Game/assets/100836558/759b9f3b-4619-4e14-a7d7-ebbe9b639b38)
 
 Go to manager profile
+
+Select Game And Press Scripts
+![image](https://github.com/SerenityEirlys/Anti-Recoil-All-Game/assets/100836558/008437e0-b196-4414-8665-62277448e88b)
+Create Scripts
+![image](https://github.com/SerenityEirlys/Anti-Recoil-All-Game/assets/100836558/f6360866-4b3f-4446-b5a3-a63f738790c3)
+Press Button Script
+![image](https://github.com/SerenityEirlys/Anti-Recoil-All-Game/assets/100836558/af705c76-4718-4cca-9056-296aa03e373f)
+Select Import
+![image](https://github.com/SerenityEirlys/Anti-Recoil-All-Game/assets/100836558/70394093-5e7f-478c-a318-f28510b50cb7)
+Open Lua Scripts U Download In Github
+
+
+
+
+
+All guns supported (K2, P90, ACE32, AKM, M416, MP5, Bizon, UMP45, Tommy, Uzi, Vector, SCAR-L, QBZ, BERYL, G36C, GROZA, AUG, DP28, M249,MG3)
+
+Works with All Windows Versions
+
+Undetected, Secure and super easy to use
+
+Fully Customizable
+
+Works with any DPI
+
+Works with Red Dot,Holographic Sight and 2x,3x,4x Scopes
+
+Works with every Logitech mouse.
+
+
+--------------------------------------------
 
 
 local AKM = nil

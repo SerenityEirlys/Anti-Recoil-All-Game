@@ -2,4 +2,4 @@
 
 
 Select u game here
-[PUBG](pubgpc-recoil.md), [EN](apex-recoil.md)
+[PUBG PC](pubgpc-recoil.md), [Apex Legend](apex-recoil.md)

@@ -2,4 +2,4 @@
 
 
 Select u game here
-[PUBG](pubg pc recoil.md)
+[PUBG](pubgpc-recoil.md)

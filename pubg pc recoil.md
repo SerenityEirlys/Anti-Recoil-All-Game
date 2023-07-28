@@ -1,5 +1,7 @@
 #step 1 open logitech hub
+![image](https://github.com/SerenityEirlys/Anti-Recoil-All-Game/assets/100836558/759b9f3b-4619-4e14-a7d7-ebbe9b639b38)
 
+Go to manager profile
 
 
 local AKM = nil

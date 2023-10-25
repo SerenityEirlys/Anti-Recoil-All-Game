@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeeTV-Bot", "BeeTV-Bot\BeeTV-Bot.csproj", "{A014621F-B99E-49BE-8CB4-3DE92431B4E5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValorantControl", "Recoil\BeeRecoil.csproj", "{A014621F-B99E-49BE-8CB4-3DE92431B4E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
